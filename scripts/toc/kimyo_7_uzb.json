@@ -1,0 +1,337 @@
+{
+  "id": "kimyo_7_uzb",
+  "year": 2017,
+  "publisher": "Sharq",
+  "pageOffset": 1,
+  "pagesPerPdfPage": 2,
+  "source": "PDF 79–80-betlar (mundarija) matn qatlamidan; 1–2-betlar (titul). Qo‘lda tekshirildi 2026-10-29",
+  "chapters": [
+    {
+      "title": "I bob. Kimyoning asosiy tushuncha va qonunlari",
+      "topics": [
+        {
+          "title": "1-§. Kimyo fani va uning vazifalari. Fan sifatida rivojlanish tarixi",
+          "page": 3
+        },
+        {
+          "title": "O‘zbekiston kimyogar olimlarining kimyo faniga qo‘shgan hissalari",
+          "page": 5
+        },
+        {
+          "title": "2-§. Modda va uning xossalari",
+          "page": 9
+        },
+        {
+          "title": "1-amaliy mashg‘ulot. Kimyo xonasidagi jihozlar bilan ishlashda mehnat xavfsizligi qoidalari bilan tanishish",
+          "page": 10
+        },
+        {
+          "title": "2-amaliy mashg‘ulot. Laboratoriya shtativi, spirt lampasi bilan ishlash usullari, alanganing tuzilishini o‘rganish",
+          "page": 12
+        },
+        {
+          "title": "3-§. Atom-molekular ta’limot. Atom va molekulalarning realligi (mavjudligi). Kimyoviy element, kimyoviy belgi",
+          "page": 15
+        },
+        {
+          "title": "4-§. Atomlarning o‘lchami. Nisbiy va absolut massa",
+          "page": 19
+        },
+        {
+          "title": "5-§. Kimyoviy modda – atom va molekulalar uyushmasi",
+          "page": 20
+        },
+        {
+          "title": "Molekular va nomolekular moddalar",
+          "page": 21
+        },
+        {
+          "title": "6-§. Sof modda va aralashma",
+          "page": 22
+        },
+        {
+          "title": "3-amaliy mashg‘ulot. Ifloslangan osh tuzini tozalash",
+          "page": 25
+        },
+        {
+          "title": "7-§. Oddiy va murakkab moddalar",
+          "page": 26
+        },
+        {
+          "title": "8-§. Moddaning agregat holatlari",
+          "page": 28
+        },
+        {
+          "title": "9-§. Kimyoviy formula va undan kelib chiqadigan xulosalar. Valentlik. Indekslar haqida tushuncha",
+          "page": 30
+        },
+        {
+          "title": "10-§. Molekulalarning o‘lchami, nisbiy va absolut massasi. Mol va molar massa. Avogadro doimiysi",
+          "page": 33
+        },
+        {
+          "title": "11-§. Moddalarning xossalari: fizik va kimyoviy o‘zgarishlar",
+          "page": 35
+        },
+        {
+          "title": "12-§. Kimyoviy reaksiyalarning sodir bo‘lishi. Kimyoviy reaksiya tenglamalari. Koeffitsientlar",
+          "page": 36
+        },
+        {
+          "title": "13-§. Tarkibning doimiylik qonuni",
+          "page": 40
+        },
+        {
+          "title": "14-§. Massaning saqlanish qonuni",
+          "page": 42
+        },
+        {
+          "title": "15-§. Avogadro qonuni. Molar hajm",
+          "page": 43
+        },
+        {
+          "title": "16-§. Kimyoviy reaksiya turlari. Kimyoviy energiya",
+          "page": 45
+        },
+        {
+          "title": "I bobga doir masalalar yechish",
+          "page": 47
+        },
+        {
+          "title": "I bob yuzasidan test topshiriqlari",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "title": "II bob. Kislorod",
+      "topics": [
+        {
+          "title": "17-§. Kislorod",
+          "page": 54
+        },
+        {
+          "title": "18-§. Kislorod – oddiy modda",
+          "page": 56
+        },
+        {
+          "title": "19-§. Kislorodning kimyoviy xossalari. Biologik ahamiyati va ishlatilishi",
+          "page": 58
+        },
+        {
+          "title": "20-§. Kislorodning tabiatda aylanishi. Havo va uning tarkibi. Havoni ifloslanishdan saqlash",
+          "page": 60
+        },
+        {
+          "title": "21-§. Yonish. Yo‘nilg‘ilarning turlari",
+          "page": 62
+        },
+        {
+          "title": "4-amaliy mashg‘ulot. Kislorod olish va uning xossalari bilan tanishish",
+          "page": 64
+        },
+        {
+          "title": "II bob yuzasidan masala va test topshiriqlari",
+          "page": 66
+        }
+      ]
+    },
+    {
+      "title": "III bob. Vodorod",
+      "topics": [
+        {
+          "title": "22-§. Vodorod",
+          "page": 67
+        },
+        {
+          "title": "23-§. Kislotalar haqida dastlabki tushunchalar",
+          "page": 69
+        },
+        {
+          "title": "24-§. Vodorodning olinishi",
+          "page": 70
+        },
+        {
+          "title": "25-§. Vodorod – oddiy modda. Vodorodning fizik va kimyoviy xossalari. Ishlatilishi",
+          "page": 72
+        },
+        {
+          "title": "26-§. Vodorod – sof ekologik yonilg‘i. Ishlatilishi",
+          "page": 73
+        },
+        {
+          "title": "III bobga doir masalalar yechish",
+          "page": 75
+        },
+        {
+          "title": "III bob yuzasidan test topshiriqlari",
+          "page": 78
+        }
+      ]
+    },
+    {
+      "title": "IV bob. Suv va eritmalar",
+      "topics": [
+        {
+          "title": "27-§. Suv – murakkab modda. Fizik va kimyoviy xossalari",
+          "page": 80
+        },
+        {
+          "title": "28-§. Suvning tabiatda tarqalishi. Uning tirik organizmlar uchun ahamiyati, ishlatilishi",
+          "page": 83
+        },
+        {
+          "title": "29-§. Suv havzalarini ifloslanishdan saqlash choralari. Suvni tozalash usullari",
+          "page": 84
+        },
+        {
+          "title": "30-§. Suv – eng yaxshi erituvchi. Eruvchanlik",
+          "page": 85
+        },
+        {
+          "title": "31-§. Eritmalar",
+          "page": 88
+        },
+        {
+          "title": "32-§. Eritmada erigan moddaning massa ulushi, foiz, molar konsentratsiyasi",
+          "page": 90
+        },
+        {
+          "title": "Eritmalarning inson hayotidagi ahamiyati",
+          "page": 91
+        },
+        {
+          "title": "5-amaliy mashg‘ulot. 1. Erigan moddaning konsentratsiyasi ma’lum bo‘lgan eritmalarini tayyorlash",
+          "page": 93
+        },
+        {
+          "title": "2. Tuproqning suvli eritmasini tayyorlash va unda ishqor borligini aniqlash",
+          "page": 94
+        },
+        {
+          "title": "IV bobga doir masalalar yechish",
+          "page": 95
+        },
+        {
+          "title": "IV bob yuzasidan test topshiriqlari",
+          "page": 97
+        }
+      ]
+    },
+    {
+      "title": "V bob. Anorganik moddalarning eng muhim sinflari",
+      "topics": [
+        {
+          "title": "5.1. Moddalarning toifalanishi 33-§. Metallmaslar va metallar",
+          "page": 99
+        },
+        {
+          "title": "Murakkab moddalarning toifalanishi",
+          "page": 101
+        },
+        {
+          "title": "5.2. Oksidlar 34-§. Oksidlarning tarkibi, tuzilishi va nomlanishi",
+          "page": 102
+        },
+        {
+          "title": "35-§. Oksidlarning toifalanishi",
+          "page": 104
+        },
+        {
+          "title": "36-§. Oksidlarning olinishi va xossalari",
+          "page": 105
+        },
+        {
+          "title": "37-§. Eng muhim oksidlarning ishlatilishi",
+          "page": 107
+        },
+        {
+          "title": "5.3. Asoslar 38-§. Asoslarning tarkibi, tuzilishi va nomlanishi",
+          "page": 109
+        },
+        {
+          "title": "39-§. Asoslarning toifalanishi",
+          "page": 110
+        },
+        {
+          "title": "40-§. Asoslarning olinishi va xossalari",
+          "page": 111
+        },
+        {
+          "title": "41-§. Eng muhim asoslarning ishlatilishi",
+          "page": 113
+        },
+        {
+          "title": "5.4. Kislotalar 42-§. Kislotalar tarkibi, tuzilishi va nomlanishi",
+          "page": 114
+        },
+        {
+          "title": "43-§. Kislotalarning toifalanishi",
+          "page": 116
+        },
+        {
+          "title": "44-§. Kislotalarning olinishi va xossalari",
+          "page": 117
+        },
+        {
+          "title": "6-amaliy mashg‘ulot. Sulfat kislota bilan mis (II)-oksid, shuningdek, temir (III)-oksid orasidagi almashinish reaksiyalarini olib borish va reaksiya mahsulotlarini eritmadan ajratish",
+          "page": 121
+        },
+        {
+          "title": "45-§. Eng muhim kislotalarning ishlatilishi",
+          "page": 122
+        },
+        {
+          "title": "5.5. Tuzlar 46-§. Tuzlar tarkibi, tuzilishi va nomlanishi",
+          "page": 125
+        },
+        {
+          "title": "47-§. Tuzlar formulalarining ifodalanishi",
+          "page": 127
+        },
+        {
+          "title": "Tuzlarning toifalanishi",
+          "page": 128
+        },
+        {
+          "title": "48-§. Tuzlarning olinishi va xossalari",
+          "page": 129
+        },
+        {
+          "title": "49-§. Eng muhim tuzlarning ishlatilishi",
+          "page": 133
+        },
+        {
+          "title": "V bob yuzasidan test topshiriqlari",
+          "page": 135
+        },
+        {
+          "title": "50-§. Ekvivalentlik qonuni",
+          "page": 136
+        }
+      ]
+    },
+    {
+      "title": "VI bob. Oksidlar, asoslar, kislotalar va tuzlarning o‘zaro genetik bog‘lanishi",
+      "topics": [
+        {
+          "title": "51-§. Oksid, asos, kislota va tuzlar orasida o‘zаro genetik bog‘lanish",
+          "page": 141
+        },
+        {
+          "title": "7-amaliy mashg‘ulot. Anorganik birikmalarning eng muhim sinflariga oid bilimlarni umumlashtirish yuzasidan tajribaviy masalalar yechish",
+          "page": 143
+        },
+        {
+          "title": "VI bob yuzasidan test topshiriqlari",
+          "page": 145
+        },
+        {
+          "title": "Laboratoriya ishlari",
+          "page": 147
+        }
+      ]
+    }
+  ],
+  "imprint": "I.R. Asqarov, N.X. To‘xtaboyev, K.G‘. G‘opirov. Qayta ishlangan 5-nashr. ISBN 978-9943-26-621-6"
+}

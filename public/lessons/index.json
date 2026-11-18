@@ -1,0 +1,12 @@
+[
+  {
+    "grade": 8,
+    "subject": "fizika",
+    "file": "8-fizika.json",
+    "topics": 60,
+    "langs": [
+      "uz",
+      "tg"
+    ]
+  }
+]

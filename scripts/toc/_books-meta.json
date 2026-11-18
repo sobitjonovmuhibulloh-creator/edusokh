@@ -1,0 +1,1753 @@
+{
+ "_izoh": "old.eduportal.uz HEAD javoblari (2026-10-29): holat, Last-Modified (yuklangan sana, nashr yili emas), hajm",
+ "atrofimizdagi_olam_1_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 6909391
+ },
+ "matematika_daftari_1_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 2849493
+ },
+ "matematika_1_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 7758773
+ },
+ "jismoniy_tarbiya_1_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-16",
+  "bytes": 7656789
+ },
+ "alifbe_1_tojik": {
+  "status": 200,
+  "uploadedAt": "2020-09-07",
+  "bytes": 10561146
+ },
+ "musiqa_1_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 7092594
+ },
+ "oqish_1_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-08-29",
+  "bytes": 5317751
+ },
+ "tasviriy_sanat_1_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 6983484
+ },
+ "ona_tili_1_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-08-29",
+  "bytes": 12575266
+ },
+ "yozuv_daftari_1_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 3864558
+ },
+ "texnologiya_1_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 8781541
+ },
+ "odobnoma_1_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 5031183
+ },
+ "atrofimizdagi_olam_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 11056820
+ },
+ "jismoniy_tarbiya_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-16",
+  "bytes": 6403996
+ },
+ "fransuz_tili_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-07",
+  "bytes": 67127248
+ },
+ "alifbe_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-09-07",
+  "bytes": 5574372
+ },
+ "ingliz_tili_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 172203100
+ },
+ "matematika_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 7775574
+ },
+ "nemis_tili_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 17282167
+ },
+ "nutq_ostirish_maxsus_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-07",
+  "bytes": 42464974
+ },
+ "odobnoma_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 6431870
+ },
+ "matematika_daftari_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 2759864
+ },
+ "musiqa_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 16998779
+ },
+ "oqish_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 18925533
+ },
+ "tasviriy_sanat_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 7121108
+ },
+ "tarbiya_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-08-21",
+  "bytes": 26976303
+ },
+ "texnologiya_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 7840116
+ },
+ "atrofimizdagi_olam_2_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 5675717
+ },
+ "yozuv_daftari_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-09-11",
+  "bytes": 3807972
+ },
+ "ona_tili_1_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 4545271
+ },
+ "jismoniy_tarbiya_2_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-16",
+  "bytes": 16303470
+ },
+ "ozbek_tili_2_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-16",
+  "bytes": 7337915
+ },
+ "musiqa_2_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-17",
+  "bytes": 10729139
+ },
+ "matematika_2_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 3589260
+ },
+ "oqish_kitobi_2_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-16",
+  "bytes": 78272394
+ },
+ "odobnoma_2_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 3134718
+ },
+ "atrofimizdagi_olam_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 5499520
+ },
+ "texnologiya_2_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-30",
+  "bytes": 2196303
+ },
+ "tasviriy_sanat_2_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-30",
+  "bytes": 19115458
+ },
+ "fransuz_tili_daftar_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 19325088
+ },
+ "rus_tili_2_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-16",
+  "bytes": 6561105
+ },
+ "ingliz_tili_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-09-11",
+  "bytes": 27691070
+ },
+ "ingliz_tili_daftar_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-29",
+  "bytes": 10553395
+ },
+ "musiqa_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-17",
+  "bytes": 7344882
+ },
+ "jismoniy_tarbiya_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-16",
+  "bytes": 2670577
+ },
+ "matematika_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 3079924
+ },
+ "ona_tili_2_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-16",
+  "bytes": 1687688
+ },
+ "nemis_tili_daftar_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-08-21",
+  "bytes": 5882844
+ },
+ "ona_tili_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 2145784
+ },
+ "rus_tili_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-16",
+  "bytes": 6547787
+ },
+ "oqish_kitobi_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-17",
+  "bytes": 2080304
+ },
+ "odobnoma_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 2656095
+ },
+ "nemis_tili_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-17",
+  "bytes": 15785623
+ },
+ "tasviriy_sanat_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-30",
+  "bytes": 22163049
+ },
+ "texnologiya_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-30",
+  "bytes": 2154464
+ },
+ "jismoniy_tarbiya_3_tojik": {
+  "status": 200,
+  "uploadedAt": "2016-10-21",
+  "bytes": 2358854
+ },
+ "matematika_3_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 6338909
+ },
+ "musiqa_3_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 12427716
+ },
+ "oqish_kitobi_3_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-08-29",
+  "bytes": 4950025
+ },
+ "ozbek_tili_3_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-08-29",
+  "bytes": 4579620
+ },
+ "tarbiya_2_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-08-21",
+  "bytes": 27996574
+ },
+ "odobnoma_3_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 2701331
+ },
+ "ona_tili_3_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-08-29",
+  "bytes": 3738692
+ },
+ "tabiatshunoslik_3_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 6658962
+ },
+ "tasviriy_sanat_3_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-09-07",
+  "bytes": 24918691
+ },
+ "texnologiya_3_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 3967981
+ },
+ "fransuz_tili_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-09-07",
+  "bytes": 40923186
+ },
+ "fransuz_tili_daftar_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 2371752
+ },
+ "jismoniy_tarbiya_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2016-10-19",
+  "bytes": 3672599
+ },
+ "matematika_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-20",
+  "bytes": 6501109
+ },
+ "musiqa_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 15056040
+ },
+ "ingliz_tili_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 32806227
+ },
+ "ingliz_tili_daftar_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-09-07",
+  "bytes": 13040484
+ },
+ "nemis_tili_daftar_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-08-21",
+  "bytes": 2712981
+ },
+ "oqish_kitobi_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 24162135
+ },
+ "odobnoma_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-29",
+  "bytes": 3748827
+ },
+ "tarbiya_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-09-07",
+  "bytes": 14999050
+ },
+ "tabiatshunoslik_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 6472089
+ },
+ "rus_tili_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 5995782
+ },
+ "nemis_tili_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-08-21",
+  "bytes": 8485917
+ },
+ "ona_tili_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 28070140
+ },
+ "tasviriy_sanat_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-09-06",
+  "bytes": 9044515
+ },
+ "texnologiya_3_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 3390519
+ },
+ "matematika_4_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-17",
+  "bytes": 3687525
+ },
+ "jismoniy_tarbiya_4_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-06",
+  "bytes": 5958665
+ },
+ "musiqa_4_tojik": {
+  "status": 200,
+  "uploadedAt": "2020-09-11",
+  "bytes": 42573236
+ },
+ "ozbek_tili_4_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-07",
+  "bytes": 4454436
+ },
+ "odobnoma_4_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 4162517
+ },
+ "ona_tili_4_tojik": {
+  "status": 200,
+  "uploadedAt": "2020-09-07",
+  "bytes": 24504870
+ },
+ "rus_tili_4_tojik": {
+  "status": 200,
+  "uploadedAt": "2016-11-02",
+  "bytes": 10449453
+ },
+ "tabiatshunoslik_4_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-05",
+  "bytes": 3824612
+ },
+ "tasviriy_sanat_4_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-05",
+  "bytes": 4275288
+ },
+ "oqish_4_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-14",
+  "bytes": 4274589
+ },
+ "texnologiya_4_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-07",
+  "bytes": 7190955
+ },
+ "fransuz_tili_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-09-07",
+  "bytes": 14384584
+ },
+ "fransuz_tili_daftar_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 21691474
+ },
+ "ingliz_tili_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-16",
+  "bytes": 16140391
+ },
+ "ingliz_tili_daftar_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-09-11",
+  "bytes": 2424476
+ },
+ "matematika_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-10-01",
+  "bytes": 15460725
+ },
+ "musiqa_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-08-21",
+  "bytes": 8727674
+ },
+ "nemis_tili_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-08-21",
+  "bytes": 8418047
+ },
+ "nemis_tili_daftar_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-08-21",
+  "bytes": 2984082
+ },
+ "oqish_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-09-07",
+  "bytes": 5653903
+ },
+ "oqish_metodika_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-11-13",
+  "bytes": 1323524
+ },
+ "ona_tili_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 10946979
+ },
+ "odobnoma_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 5510434
+ },
+ "rus_tili_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2016-11-02",
+  "bytes": 5406192
+ },
+ "rus_tili_maxsus_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 27796309
+ },
+ "tabiatshunoslik_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-09-07",
+  "bytes": 4486149
+ },
+ "texnologiya_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-07",
+  "bytes": 7518276
+ },
+ "tasviriy_sanat_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-08-18",
+  "bytes": 4502041
+ },
+ "texnologiya_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-17",
+  "bytes": 2246923
+ },
+ "adabiyot_5_tojik": {
+  "status": 200,
+  "uploadedAt": "2020-09-07",
+  "bytes": 35850813
+ },
+ "biologiya_5_tojik": {
+  "status": 200,
+  "uploadedAt": "2020-09-11",
+  "bytes": 12000535
+ },
+ "informatika_5_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-27",
+  "bytes": 2243329
+ },
+ "geografiya_5_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-26",
+  "bytes": 3420316
+ },
+ "matematika_5_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-27",
+  "bytes": 4951419
+ },
+ "musiqa_5_tojik": {
+  "status": 200,
+  "uploadedAt": "2020-09-15",
+  "bytes": 5806061
+ },
+ "jismoniy_tarbiya_4_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-02",
+  "bytes": 3252125
+ },
+ "ozbek_tili_5_tojik": {
+  "status": 200,
+  "uploadedAt": "2016-11-23",
+  "bytes": 12369164
+ },
+ "tojik_tili_5_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-27",
+  "bytes": 1183011
+ },
+ "tarixdan_hikoyalar_5_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-09-08",
+  "bytes": 7004749
+ },
+ "tasviriy_sanat_5_tojik": {
+  "status": 200,
+  "uploadedAt": "2020-09-11",
+  "bytes": 27920355
+ },
+ "mehnat_5_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-30",
+  "bytes": 4248147
+ },
+ "vatan_tuygusi_5_tojik": {
+  "status": 200,
+  "uploadedAt": "2016-11-23",
+  "bytes": 4621486
+ },
+ "adabiyot_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-09-11",
+  "bytes": 9018287
+ },
+ "biologiya_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-09-11",
+  "bytes": 5123700
+ },
+ "fransuz_tili_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-06",
+  "bytes": 89024573
+ },
+ "fransuz_tili_daftar_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-10-05",
+  "bytes": 89024587
+ },
+ "fransuz_tili_metodika_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-08-29",
+  "bytes": 1552757
+ },
+ "geografiya_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-09-07",
+  "bytes": 4701848
+ },
+ "ingliz_tili_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-02",
+  "bytes": 10365911
+ },
+ "ingliz_tili_metodika_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-02",
+  "bytes": 615260
+ },
+ "informatika_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-10-16",
+  "bytes": 16824200
+ },
+ "jismoniy_tarbiya_5_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2016-11-23",
+  "bytes": 9947258
+ },
+ "matematika_1qism_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-08-18",
+  "bytes": 4780199
+ },
+ "nemis_tili_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-31",
+  "bytes": 8606447
+ },
+ "nemis_tili_metodika_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 5577524
+ },
+ "musiqa_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-08-21",
+  "bytes": 6485591
+ },
+ "matematika_2qism_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-10-23",
+  "bytes": 4046004
+ },
+ "rus_tili_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-05-28",
+  "bytes": 46263718
+ },
+ "ona_tili_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-08-21",
+  "bytes": 9395403
+ },
+ "adabiyot_6_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-05",
+  "bytes": 111841847
+ },
+ "tarixdan_hikoyalar_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 7256026
+ },
+ "vatan_tuygusi_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2016-11-23",
+  "bytes": 4580304
+ },
+ "tasviriy_sanat_5_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-29",
+  "bytes": 10425240
+ },
+ "fizika_6_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-16",
+  "bytes": 9093668
+ },
+ "botanika_6_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-02",
+  "bytes": 137013092
+ },
+ "informatika_6_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 2209579
+ },
+ "geografiya_6_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-02",
+  "bytes": 1911021
+ },
+ "musiqa_6_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-10-05",
+  "bytes": 1863487
+ },
+ "matematika_6_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-06",
+  "bytes": 2657916
+ },
+ "rus_tili_6_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-07",
+  "bytes": 5568224
+ },
+ "qadimgi_dunyo_tarixi_6_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-11-13",
+  "bytes": 8541282
+ },
+ "tasviriy_sanat_6_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-11-13",
+  "bytes": 8892499
+ },
+ "texnologiya_6_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-30",
+  "bytes": 3763157
+ },
+ "vatan_tuygusi_6_tojik": {
+  "status": 200,
+  "uploadedAt": "2016-11-23",
+  "bytes": 4511601
+ },
+ "tojik_tili_6_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-05",
+  "bytes": 63945287
+ },
+ "adabiyot_1qism_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-09-06",
+  "bytes": 1916765
+ },
+ "fizika_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-16",
+  "bytes": 1936727
+ },
+ "botanika_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 79306874
+ },
+ "adabiyot_2qism_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-09-06",
+  "bytes": 1528942
+ },
+ "fizika_afidum_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-29",
+  "bytes": 10816957
+ },
+ "fransuz_tili_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-17",
+  "bytes": 50727391
+ },
+ "geografiya_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-02",
+  "bytes": 1704744
+ },
+ "fransuz_tili_metodika_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-17",
+  "bytes": 49167416
+ },
+ "informatika_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 2176702
+ },
+ "ingliz_tili_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-16",
+  "bytes": 13485686
+ },
+ "ingliz_tili_metodika_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-16",
+  "bytes": 781612
+ },
+ "matematika_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-02",
+  "bytes": 3324926
+ },
+ "nemis_tili_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-17",
+  "bytes": 14100260
+ },
+ "musiqa_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 29347926
+ },
+ "ona_tili_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-05",
+  "bytes": 1351410
+ },
+ "qadimgi_dunyo_tarixi_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 8302713
+ },
+ "rus_tili_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-07",
+  "bytes": 5553177
+ },
+ "tasviriy_sanat_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 41749853
+ },
+ "texnologiya_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-30",
+  "bytes": 2613175
+ },
+ "vatan_tuygusi_6_uzb": {
+  "status": 200,
+  "uploadedAt": "2016-11-23",
+  "bytes": 4509210
+ },
+ "algebra_7_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-03",
+  "bytes": 2006016
+ },
+ "adabiyot_7_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-10-05",
+  "bytes": 2369677
+ },
+ "fizika_7_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 3058187
+ },
+ "geografiya_7_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-07",
+  "bytes": 6674882
+ },
+ "informatika_7_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-12",
+  "bytes": 2639152
+ },
+ "jismoniy_tarbiya_7_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-17",
+  "bytes": 5956534
+ },
+ "kimyo_7_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-11-13",
+  "bytes": 1175988
+ },
+ "jahon_tarixi_7_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 3423851
+ },
+ "milliy_istiqlol_goyasi_7_tojik": {
+  "status": 200,
+  "uploadedAt": "2016-11-23",
+  "bytes": 1876916
+ },
+ "musiqa_7_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-16",
+  "bytes": 2667015
+ },
+ "ozbekiston_tarixi_7_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-30",
+  "bytes": 894779
+ },
+ "texnologiya_7_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-09-06",
+  "bytes": 9050365
+ },
+ "ozbek_tili_7_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-07",
+  "bytes": 3689526
+ },
+ "tasviriy_sanat_7_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-11-13",
+  "bytes": 5971311
+ },
+ "zoologiya_7_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 5933643
+ },
+ "tojik_tili_7_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-09-16",
+  "bytes": 761893
+ },
+ "adabiyot_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-05",
+  "bytes": 1731958
+ },
+ "algebra_afidum_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 21057736
+ },
+ "fizika_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 2744535
+ },
+ "algebra_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-03",
+  "bytes": 3355889
+ },
+ "fransuz_tili_metodika_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 3152867
+ },
+ "fransuz_tili_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 8957318
+ },
+ "geometriya_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 10122788
+ },
+ "geografiya_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-07",
+  "bytes": 6778081
+ },
+ "informatika_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 2434637
+ },
+ "ingliz_tili_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-29",
+  "bytes": 15735230
+ },
+ "ingliz_tili_metodika_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 1861931
+ },
+ "jahon_tarixi_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 3987532
+ },
+ "jismoniy_tarbiya_7_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-07",
+  "bytes": 2737334
+ },
+ "kimyo_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-05",
+  "bytes": 3049231
+ },
+ "milliy_istiqlol_goyasi_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2016-11-23",
+  "bytes": 1847333
+ },
+ "musiqa_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 46653785
+ },
+ "nemis_tili_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 28171158
+ },
+ "nemis_tili_metodika_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-07",
+  "bytes": 39108471
+ },
+ "ozbekiston_tarixi_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-30",
+  "bytes": 1261063
+ },
+ "texnologiya_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-30",
+  "bytes": 8059558
+ },
+ "tasviriy_sanat_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 36391350
+ },
+ "ona_tili_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-09-06",
+  "bytes": 916051
+ },
+ "chizmachilik_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 40396378
+ },
+ "algebra_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-25",
+  "bytes": 67656398
+ },
+ "fizika_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 85158406
+ },
+ "geometriya_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 5757996
+ },
+ "zoologiya_7_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-01",
+  "bytes": 5437531
+ },
+ "adabiyot_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 126812820
+ },
+ "informatika_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-30",
+  "bytes": 3022480
+ },
+ "iqtisodiy_bilim_asoslari_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 6010646
+ },
+ "jahon_tarixi_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 6329191
+ },
+ "milliy_istiqlol_goyasi_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2016-11-23",
+  "bytes": 1921299
+ },
+ "kimyo_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 4879538
+ },
+ "ozbekiston_davlati_va_huquqi_asoslari_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 8188172
+ },
+ "ozbek_tili_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-08-07",
+  "bytes": 55843186
+ },
+ "ozbekiston_tarixi_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 3206322
+ },
+ "ijtimoiy_iqtisodiy_geografiya_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 10116519
+ },
+ "odam_va_uning_salomatligi_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 100253303
+ },
+ "texnologiya_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-09",
+  "bytes": 24785352
+ },
+ "tojik_tili_8_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 1647272
+ },
+ "adabiyot_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 153240109
+ },
+ "algebra_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 31060856
+ },
+ "algebra_8_afidum_uzb": {
+  "status": 404,
+  "uploadedAt": null,
+  "bytes": 103
+ },
+ "chizmachilik_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 43347324
+ },
+ "fizika_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-07",
+  "bytes": 39883826
+ },
+ "geometriya_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2016-11-22",
+  "bytes": 2944734
+ },
+ "informatika_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-10-16",
+  "bytes": 42222222
+ },
+ "iqtisodiy_bilim_asoslari_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 7688526
+ },
+ "jahon_tarixi_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 8088772
+ },
+ "kimyo_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 4521565
+ },
+ "milliy_istiqlol_goyasi_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2016-11-23",
+  "bytes": 1849184
+ },
+ "ozbekiston_davlati_va_huquqi_asoslari_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 9741284
+ },
+ "ozbekiston_tarixi_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-07",
+  "bytes": 47586418
+ },
+ "ijtimoiy_iqtisodiy_geografiya_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 10928514
+ },
+ "odam_va_uning_salomatligi_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-07",
+  "bytes": 50559905
+ },
+ "ona_tili_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 1870293
+ },
+ "adabiyot_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-08-07",
+  "bytes": 45604432
+ },
+ "texnologiya_8_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-09",
+  "bytes": 9175521
+ },
+ "algebra_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 74035123
+ },
+ "chizmachilik_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 37377052
+ },
+ "geometriya_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-09-08",
+  "bytes": 2968116
+ },
+ "fizika_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 84608823
+ },
+ "iqtisodiy_bilim_asoslari_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 10048768
+ },
+ "informatika_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2016-11-23",
+  "bytes": 2514301
+ },
+ "jahon_ijtimoiy_iqtisodiy_geografiyasi_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 89615855
+ },
+ "jahon_tarixi_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 2897629
+ },
+ "kimyo_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 3585974
+ },
+ "konstitutsiyaviy_huquq_asoslari_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 4787788
+ },
+ "ozbek_tili_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 1612242
+ },
+ "milliy_istiqlol_goyasi_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2016-11-23",
+  "bytes": 2708140
+ },
+ "ozbekiston_tarixi_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 11152415
+ },
+ "biologiya_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 4727044
+ },
+ "texnologiya_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-08-30",
+  "bytes": 65959738
+ },
+ "tojik_tili_9_tojik": {
+  "status": 200,
+  "uploadedAt": "2019-07-16",
+  "bytes": 19214029
+ },
+ "adabiyot_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-29",
+  "bytes": 4206938
+ },
+ "algebra_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-07",
+  "bytes": 47205518
+ },
+ "chizmachilik_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-29",
+  "bytes": 6352129
+ },
+ "fizika_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-07",
+  "bytes": 93078147
+ },
+ "informatika_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-10-16",
+  "bytes": 2437921
+ },
+ "geometriya_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 7910536
+ },
+ "jahon_ijtimoiy_iqtisodiy_geografiyasi_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-29",
+  "bytes": 5545184
+ },
+ "iqtisodiy_bilim_asoslari_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 7139979
+ },
+ "jahon_tarixi_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-07",
+  "bytes": 89685542
+ },
+ "kimyo_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 3160382
+ },
+ "konstitutsiyaviy_huquq_asoslari_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 4664637
+ },
+ "milliy_istiqlol_goyasi_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2016-11-23",
+  "bytes": 2674366
+ },
+ "ozbekiston_tarixi_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-12",
+  "bytes": 6510770
+ },
+ "ona_tili_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-09-07",
+  "bytes": 1526464
+ },
+ "biologiya_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-09-19",
+  "bytes": 5083920
+ },
+ "texnologiya_9_uzb": {
+  "status": 200,
+  "uploadedAt": "2019-08-29",
+  "bytes": 4807071
+ },
+ "adabiyot_10_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-08-28",
+  "bytes": 1253412
+ },
+ "matematika_1qism_10_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-31",
+  "bytes": 39894896
+ },
+ "biologiya_10_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-30",
+  "bytes": 2578489
+ },
+ "matematika_2qism_10_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-31",
+  "bytes": 36444676
+ },
+ "chaqiruvga_qadar_boshlangich_tayyorgarlik_10_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-11-13",
+  "bytes": 9791932
+ },
+ "davlat_va_huquq_asoslari_10_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-12-18",
+  "bytes": 2179739
+ },
+ "dunyo_dinlari_tarixi_10_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 2130502
+ },
+ "fizika_10_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-11-13",
+  "bytes": 4909708
+ },
+ "geografiya_10_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 2132957
+ },
+ "informatika_10_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-11-13",
+  "bytes": 65835725
+ },
+ "jahon_tarixi_10_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-11-13",
+  "bytes": 3945540
+ },
+ "manaviyat_asoslari_10_11_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 1739203
+ },
+ "organik_kimyo_10_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-11-13",
+  "bytes": 59439926
+ },
+ "ozbekiston_tarixi_10_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-11-13",
+  "bytes": 2671074
+ },
+ "tojik_tili_10_tojik": {
+  "status": 200,
+  "uploadedAt": "2017-08-25",
+  "bytes": 1266306
+ },
+ "adabiyot_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-08-28",
+  "bytes": 2383107
+ },
+ "adabiyot_2qism_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-10-11",
+  "bytes": 1707083
+ },
+ "matematika_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-09-06",
+  "bytes": 48764808
+ },
+ "biologiya_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-07",
+  "bytes": 3811284
+ },
+ "matematika_2qism_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-01-01",
+  "bytes": 60359566
+ },
+ "chaqiruvga_qadar_boshlangich_tayyorgarlik_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-08-28",
+  "bytes": 8353085
+ },
+ "davlat_va_huquq_asoslari_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-12-18",
+  "bytes": 2149542
+ },
+ "dunyo_dinlari_tarixi_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-11-02",
+  "bytes": 2436500
+ },
+ "fizika_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-16",
+  "bytes": 1818194
+ },
+ "geografiya_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-08-26",
+  "bytes": 2053004
+ },
+ "fransuz_tili_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-07",
+  "bytes": 82464315
+ },
+ "ingliz_tili_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-08-28",
+  "bytes": 5037377
+ },
+ "informatika_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-08-28",
+  "bytes": 15360084
+ },
+ "jahon_tarixi_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-22",
+  "bytes": 3689678
+ },
+ "manaviyat_asoslari_10_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 1607089
+ },
+ "ozbekiston_tarixi_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-08-28",
+  "bytes": 1854442
+ },
+ "nemis_tili_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-11-13",
+  "bytes": 25822377
+ },
+ "ona_tili_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-09-07",
+  "bytes": 5551410
+ },
+ "organik_kimyo_10_uzb": {
+  "status": 200,
+  "uploadedAt": "2017-09-04",
+  "bytes": 53642029
+ },
+ "adabiyot_11_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 1163490
+ },
+ "astronomiya_11_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-14",
+  "bytes": 12492162
+ },
+ "biologiya_11_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-30",
+  "bytes": 5474576
+ },
+ "chaqiruvga_qadar_boshlangich_tayyorgarlik_11_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-14",
+  "bytes": 23807171
+ },
+ "dunyo_dinlari_tarixi_11_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 1857399
+ },
+ "davlat_va_huquq_asoslari_11_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 2929877
+ },
+ "fizika_11_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-09-06",
+  "bytes": 4575223
+ },
+ "informatika_11_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-27",
+  "bytes": 61736386
+ },
+ "jahon_tarixi_11_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 3928642
+ },
+ "matematika_1qism_11_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-27",
+  "bytes": 67459643
+ },
+ "ozbekiston_tarixi_11_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-26",
+  "bytes": 2539971
+ },
+ "tadbirkorlik_asoslari_11_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-17",
+  "bytes": 60847818
+ },
+ "tojik_tili_11_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-05-15",
+  "bytes": 18999173
+ },
+ "umumiy_kimyo_11_tojik": {
+  "status": 200,
+  "uploadedAt": "2018-08-17",
+  "bytes": 61289555
+ },
+ "adabiyot_1qism_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 4741984
+ },
+ "adabiyot_2qism_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 3511122
+ },
+ "biologiya_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-30",
+  "bytes": 5009826
+ },
+ "astronomiya_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-14",
+  "bytes": 12477329
+ },
+ "chaqiruvga_qadar_boshlangich_tayyorgarlik_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-09-06",
+  "bytes": 23991342
+ },
+ "davlat_va_huquq_asoslari_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 2227961
+ },
+ "dunyo_dinlari_tarixi_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 1678691
+ },
+ "fizika_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-09-06",
+  "bytes": 4365986
+ },
+ "fransuz_tili_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-17",
+  "bytes": 69629153
+ },
+ "informatika_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-27",
+  "bytes": 63987954
+ },
+ "ingliz_tili_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-17",
+  "bytes": 72667238
+ },
+ "jahon_tarixi_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-15",
+  "bytes": 3539614
+ },
+ "matematika_1qism_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-27",
+  "bytes": 70222441
+ },
+ "nemis_tili_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-14",
+  "bytes": 47289893
+ },
+ "ona_tili_2qism_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2020-09-11",
+  "bytes": 2453441
+ },
+ "ozbekiston_tarixi_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-26",
+  "bytes": 2567413
+ },
+ "tadbirkorlik_asoslari_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-16",
+  "bytes": 1747509
+ },
+ "umumiy_kimyo_11_uzb": {
+  "status": 200,
+  "uploadedAt": "2018-08-17",
+  "bytes": 80927697
+ }
+}

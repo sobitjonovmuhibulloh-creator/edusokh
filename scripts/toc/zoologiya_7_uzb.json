@@ -1,0 +1,356 @@
+{
+  "id": "zoologiya_7_uzb",
+  "year": 2017,
+  "publisher": null,
+  "pageOffset": 0,
+  "pagesPerPdfPage": 1,
+  "imprint": "ISBN 978-9943-07-508-5",
+  "source": "PDF 204–206-betlar (mundarija) matn qatlamidan, 1–2-betlar (titul); toc-parse bilan ajratildi; bob tuzilishi, bet tartibi va shriftdan o‘girilgan harflar qo‘lda tekshirildi 2026-10-29",
+  "chapters": [
+    {
+      "title": "",
+      "topics": [
+        {
+          "title": "So‘zboshi",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "title": "I BOB. Hayvonlar to‘g‘risida umumiy ma‘lumot",
+      "topics": [
+        {
+          "title": "1-§. Zoologiya fani va uning vazifalari",
+          "page": 4
+        },
+        {
+          "title": "2-§. Hayvon organizmining tuzilishi, hayvonlarni klassifikatsiya qilish",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "title": "II BOB. Bir hujayralilar, ya’ni sodda hayvonlar",
+      "topics": [
+        {
+          "title": "3-§. Soxta oyoqlilar sinfi",
+          "page": 11
+        },
+        {
+          "title": "4-§. Xivchinlilar sinfi",
+          "page": 14
+        },
+        {
+          "title": "5-§. Infuzoriyalar va sporalilar sinflari",
+          "page": 18
+        },
+        {
+          "title": "1-laboratoriya mashg‘uloti. Tufelkaning tuzilishi, harakatlanishi va ta’sirlanishi",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "title": "III BOB. Ko‘p hujayrali hayvonlar: bo‘shliqichlilar tiði",
+      "topics": [
+        {
+          "title": "6-§. Gidroid poliðlar sinfi: chuchuk suv gidrasi",
+          "page": 23
+        },
+        {
+          "title": "7-§. Dengiz bo‘shliqichlilari",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "title": "IV BOB. Yassi va to‘garak chuvalchanglar tiðlari",
+      "topics": [
+        {
+          "title": "8-§. Yassi chuvalchanglar tiði: kiðrikli chuvalchanglar sinfi",
+          "page": 31
+        },
+        {
+          "title": "9-§. Yassi chuvalchanglar tiði: so‘rg‘ichlilar va tasmasimon chuvalchanglar sinflari",
+          "page": 34
+        },
+        {
+          "title": "10-§. To‘garak chuvalchanglar tiði: odam askaridasi",
+          "page": 38
+        },
+        {
+          "title": "11-§. Parazit chuvalchanglarning xilma-xilligi",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "title": "V BOB. Halqali chuvalchanglar tiði",
+      "topics": [
+        {
+          "title": "12-§. Yomg‘ir chuvalchangining tashqi tuzilishi, nerv sistemasi va rivojlanishi",
+          "page": 45
+        },
+        {
+          "title": "13-§. Yomg‘ir chuvalchangining ichki tuzilishi",
+          "page": 48
+        },
+        {
+          "title": "2-laboratoriya mashg‘uloti. Yomg‘ir chuvalchangining tashqi tuzilishi, harakatlanishi va refleks hosil qilishi",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "title": "VI BOB. Mollyuskalar tiði",
+      "topics": [
+        {
+          "title": "14-§. Qorinoyoqli mollyuskalar sinfi",
+          "page": 53
+        },
+        {
+          "title": "15-§. Ikki pallali va boshoyoqli mollyuskalar sinfi",
+          "page": 56
+        }
+      ]
+    },
+    {
+      "title": "VII BOB. Bo‘g‘imoyoqlilar tiði",
+      "topics": [
+        {
+          "title": "7.1. Qisqichbaqasimonlar sinfi",
+          "page": 60
+        },
+        {
+          "title": "16-§. Daryo qisqichbaqasining tashqi tuzilishi va ko‘payishi",
+          "page": 60
+        },
+        {
+          "title": "17-§. Daryo qisqichbaqasining ichki tuzilishi",
+          "page": 63
+        },
+        {
+          "title": "7.2. O‘rgimchaksimonlar sinfi",
+          "page": 66
+        },
+        {
+          "title": "18-§. Butli o‘rgimchakning tuzilishi va hayot kechirishi",
+          "page": 66
+        },
+        {
+          "title": "19-§. O‘rgimchaksimonlarning xilma-xilligi",
+          "page": 70
+        },
+        {
+          "title": "7.3. Hasharotlar sinfi",
+          "page": 73
+        },
+        {
+          "title": "20-§. Yashil bronza qo‘ng‘izining tashqi tuzilishi",
+          "page": 73
+        },
+        {
+          "title": "21-§. Yashil bronza qo‘ng‘izining ichki tuzilishi",
+          "page": 76
+        },
+        {
+          "title": "3-laboratoriya mashg‘uloti. Hasharotlarning tashqi tuzilishi",
+          "page": 79
+        },
+        {
+          "title": "22-§. Hasharotlarning ko‘payishi va rivojlanishi",
+          "page": 79
+        },
+        {
+          "title": "23-§. Chala o‘zgarish bilan rivojlanadigan hasharotlar",
+          "page": 82
+        },
+        {
+          "title": "24-§. To‘liq o‘zgarish bilan rivojlanadigan hasharotlar: tangachaqanotlilar turkumi",
+          "page": 85
+        },
+        {
+          "title": "25-§. Pardaqanotlilar turkumi: asalarilar",
+          "page": 88
+        },
+        {
+          "title": "26-§. Ikki qanotlilar turkumi",
+          "page": 91
+        },
+        {
+          "title": "27-§. Hasharotlarning kelib chiqishi va ahamiyati",
+          "page": 94
+        }
+      ]
+    },
+    {
+      "title": "VIII BOB. Xordalilar tiði",
+      "topics": [
+        {
+          "title": "28-§. Lansetnik – tuban tuzilgan xordali hayvon",
+          "page": 98
+        },
+        {
+          "title": "8.1. Baliqlar",
+          "page": 101
+        },
+        {
+          "title": "29-§. Tashqi tuzilishi, skeleti, suzgich pufagi",
+          "page": 101
+        },
+        {
+          "title": "4-laboratoriya mashg‘uloti. Baliqlarning tashqi tuzilishi va harakatlanishi",
+          "page": 105
+        },
+        {
+          "title": "30-§. Baliqlarning ichki tuzilshi",
+          "page": 106
+        },
+        {
+          "title": "31-§. Nerv sistemasi va sezgi organlari",
+          "page": 109
+        },
+        {
+          "title": "32-§. Baliqlarning ko‘payishi va rivojlanishi",
+          "page": 112
+        },
+        {
+          "title": "33-§. Baliqlarning xilma-xilligi: tog‘ayli baliqlar sinfi",
+          "page": 114
+        },
+        {
+          "title": "34-§. Suyakli baliqlar sinfi: asosiy sistematik guruhlari va ahamiyati",
+          "page": 117
+        },
+        {
+          "title": "8.2. Suvda hamda quruqlikda yashovchilar sinfi",
+          "page": 120
+        },
+        {
+          "title": "35-§. Ko‘l baqasining tashqi tuzilishi, skeleti va muskullari",
+          "page": 120
+        },
+        {
+          "title": "36-§. Ko‘l baqasining ichki tuzilishi",
+          "page": 123
+        },
+        {
+          "title": "37-§. Suvda hamda quruqlikda yashovchilarning ko‘payishi, rivojlanishi va xilma-xilligi",
+          "page": 126
+        },
+        {
+          "title": "8.3. Sudralib yuruvchilar sinfi",
+          "page": 129
+        },
+        {
+          "title": "38-§. Ildam kaltakesakning tuzilishi, ko‘payishi va rivojlanishi",
+          "page": 129
+        },
+        {
+          "title": "39-§. Sudralib yuruvchilar xilma-xilligi: tangachalilar turkumi",
+          "page": 132
+        },
+        {
+          "title": "40-§. Toshbaqalar va timsohlar turkumlari",
+          "page": 132
+        },
+        {
+          "title": "8.4. Qushlar sinfi",
+          "page": 136
+        },
+        {
+          "title": "41-§. Ko‘k kaptarning tashqi tuzilishi",
+          "page": 139
+        },
+        {
+          "title": "42-§. Ko‘k kaptarning skeleti va muskullari",
+          "page": 142
+        },
+        {
+          "title": "5-laboratoriya mashg‘uloti. Qushlarning tashqi tuzilishi va pat qoplami",
+          "page": 145
+        },
+        {
+          "title": "43-§. Qushlarning ichki tuzilishi va sezgi organlari",
+          "page": 146
+        },
+        {
+          "title": "44-§. Qushlarning ko‘payishi, rivojlanishi va kelib chiqishi",
+          "page": 149
+        },
+        {
+          "title": "45-§. Qushlarning mavsumiy hodisalarga moslashishi",
+          "page": 153
+        },
+        {
+          "title": "46-§. Qushlarning xilma-xilligi: voha va cho‘l qushlari",
+          "page": 156
+        },
+        {
+          "title": "47-§. Suv havzalari va sohil qushlari",
+          "page": 159
+        },
+        {
+          "title": "48-§. Yirtqich qushlar",
+          "page": 162
+        },
+        {
+          "title": "49-§. Parrandachilik",
+          "page": 166
+        },
+        {
+          "title": "8.5. Sutemizuvchilar sinfi",
+          "page": 168
+        },
+        {
+          "title": "50-§. Itning tashqi tuzilishi, skeleti va muskullari",
+          "page": 168
+        },
+        {
+          "title": "51-§. Itning ichki tuzilishi",
+          "page": 171
+        },
+        {
+          "title": "52-§. Sutemizuvchilarning ko‘payishi, rivojlanishi va kelib chiqishi",
+          "page": 175
+        },
+        {
+          "title": "53-§. Sutemizuvchilarning xilma-xilligi: tuxum qo‘yuvchilar, xaltalilar, yo‘ldoshlilar",
+          "page": 177
+        },
+        {
+          "title": "54-§. Qo‘lqanotlilar va kemiruvchilar turkumlari",
+          "page": 180
+        },
+        {
+          "title": "55-§. Yirtqich sutemizuvchilar turkumi",
+          "page": 183
+        },
+        {
+          "title": "56-§. Dengiz sutemizuvchilari: kurakoyoqlilar va kitsimonlar turkumlari",
+          "page": 187
+        },
+        {
+          "title": "57-§. Tuyoqli sutemizuvchilar",
+          "page": 190
+        },
+        {
+          "title": "58-§. Primatlar turkumi. Sutemizuvchilarning ahamiyati",
+          "page": 194
+        },
+        {
+          "title": "59-§. Sutemizuvchilar sinfiga mansub chorva mollari",
+          "page": 197
+        },
+        {
+          "title": "Topishmoqlar javoblari",
+          "page": 201
+        },
+        {
+          "title": "Zoologiya terminlari ko‘rsatkichi (*-rasmlarga havola)",
+          "page": 201
+        }
+      ]
+    }
+  ]
+}

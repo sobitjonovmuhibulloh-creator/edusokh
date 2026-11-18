@@ -1,0 +1,242 @@
+{
+  "id": "fizika_7_uzb",
+  "year": null,
+  "publisher": null,
+  "pageOffset": null,
+  "pagesPerPdfPage": 1,
+  "source": "PDF 166–167-betlar (mundarija) matn qatlamidan, 1–2-betlar (titul); toc-parse bilan ajratildi; bob tuzilishi, bet tartibi va shriftdan o‘girilgan harflar qo‘lda tekshirildi 2026-10-29",
+  "chapters": [
+    {
+      "title": "",
+      "topics": [
+        {
+          "title": "Kirish",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "title": "KINEMATIKA ASOSLARI · I bob. Mexanik harakat haqida umumiy ma‘lumotlar",
+      "topics": [
+        {
+          "title": "1-§. Jismlarning harakati",
+          "page": 8
+        },
+        {
+          "title": "2-§. Fazo va vaqt",
+          "page": 11
+        },
+        {
+          "title": "3-§. Kinematikaning asosiy tushunchalari",
+          "page": 14
+        },
+        {
+          "title": "4-§. Skalyar va vektor kattaliklar hamda ular ustida amallar",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "title": "II bob. To‘g‘ri chiziqli harakat",
+      "topics": [
+        {
+          "title": "5-§. To‘g‘ri chiziqli tekis harakat haqida tushuncha",
+          "page": 26
+        },
+        {
+          "title": "6-§. To‘g‘ri chiziqli tekis harakat tezligi",
+          "page": 28
+        },
+        {
+          "title": "7-§. To‘g‘ri chiziqli tekis harakatning grafik tasviri",
+          "page": 32
+        },
+        {
+          "title": "8-§. Notekis harakatda tezlik",
+          "page": 34
+        },
+        {
+          "title": "9-§. Tekis o‘zgaruvchan harakatda tezlanish",
+          "page": 37
+        },
+        {
+          "title": "10-§. Tekis o‘zgaruvchan harakat tezligi",
+          "page": 40
+        },
+        {
+          "title": "11-§. Tekis o‘zgaruvchan harakatda bosib o‘tilgan yo‘l",
+          "page": 44
+        },
+        {
+          "title": "12-§. Tekis tezlanuvchan harakatlanayotgan jism tezlanishini aniqlash (1-laboratoriya ishi)",
+          "page": 47
+        },
+        {
+          "title": "13-§. Jismlarning erkin tushishi",
+          "page": 48
+        },
+        {
+          "title": "14-§. Yuqoriga tik otilgan jismning harakati",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "title": "III bob. Tekis aylanma harakat",
+      "topics": [
+        {
+          "title": "15-§. Jismning tekis aylanma harakati",
+          "page": 56
+        },
+        {
+          "title": "16-§. Aylanma harakatni tavsiflaydigan kattaliklar orasidagi munosabatlar.. 59 17-§. Markazga intilma tezlanish",
+          "page": 62
+        }
+      ]
+    },
+    {
+      "title": "DINAMIKA ASOSLARI · IV bob. Harakat qonunlari",
+      "topics": [
+        {
+          "title": "18-§. Jismlarning o‘zaro ta‘siri. Kuch",
+          "page": 69
+        },
+        {
+          "title": "19-§. Nyutonning birinchi qonuni — inersiya qonuni",
+          "page": 72
+        },
+        {
+          "title": "20-§. Jism massasi",
+          "page": 76
+        },
+        {
+          "title": "21-§. Nyutonning ikkinchi qonuni",
+          "page": 78
+        },
+        {
+          "title": "22-§. Nyutonning uchinchi qonuni",
+          "page": 82
+        },
+        {
+          "title": "23-§. Harakat qonunlarining aylanma harakatga tatbiqi",
+          "page": 86
+        },
+        {
+          "title": "24-§. Elastiklik kuchi",
+          "page": 88
+        },
+        {
+          "title": "25-§. Prujina bikirligini aniqlash (2-laboratoriya ishi)",
+          "page": 93
+        }
+      ]
+    },
+    {
+      "title": "V bob. Tashqi kuchlar ta’sirida jismlarning harakati",
+      "topics": [
+        {
+          "title": "26-§. Butun olam tortishish qonuni",
+          "page": 97
+        },
+        {
+          "title": "27-§. Og‘irlik kuchi",
+          "page": 100
+        },
+        {
+          "title": "28-§. Jismning og‘irligi",
+          "page": 102
+        },
+        {
+          "title": "29-§. Yuklama va vaznsizlik",
+          "page": 105
+        },
+        {
+          "title": "30-§. Yerning tortish kuchi ta’sirida jismlarning harakati",
+          "page": 108
+        },
+        {
+          "title": "31-§. Yerning sun’iy yo‘ldoshlari",
+          "page": 112
+        },
+        {
+          "title": "32-§. Ishqalanish kuchi. Tinchlikdagi ishqalanish",
+          "page": 115
+        },
+        {
+          "title": "33-§. Sirpanish ishqalanish. Dumalash ishqalanish",
+          "page": 118
+        },
+        {
+          "title": "34-§. Sirpanish ishqalanish koeffitsiyentini aniqlash (3-laboratoriya ishi).. 122 35-§. Tabiatda va texnikada ishqalanish",
+          "page": 123
+        }
+      ]
+    },
+    {
+      "title": "SAQLANISH QONUNLARI · VI bob. Impulsning saqlanish qonuni",
+      "topics": [
+        {
+          "title": "36-§. Impuls",
+          "page": 130
+        },
+        {
+          "title": "37-§. Impulsning saqlanish qonuni",
+          "page": 135
+        },
+        {
+          "title": "38-§. Reaktiv harakat",
+          "page": 140
+        }
+      ]
+    },
+    {
+      "title": "VII bob. Ish va energiya. Energiyaning saqlanish qonuni",
+      "topics": [
+        {
+          "title": "39-§. Mexanik ish",
+          "page": 147
+        },
+        {
+          "title": "40-§. Jismni ko‘tarishda va shu masofaga gorizontal ko‘chirishda bajarilgan ishini hisoblash (4-laboratoriya ishi)",
+          "page": 151
+        },
+        {
+          "title": "41-§. Potensial energiya",
+          "page": 152
+        },
+        {
+          "title": "42-§. Kinetik energiya",
+          "page": 155
+        },
+        {
+          "title": "43-§. Mexanik energiyaning saqlanish qonuni",
+          "page": 157
+        },
+        {
+          "title": "44-§. Jism kinetik energiyasining uning tezligi va massasiga bog‘liqligini aniqlash (5-laboratoriya ishi)",
+          "page": 162
+        },
+        {
+          "title": "45-§. Quvvat",
+          "page": 163
+        },
+        {
+          "title": "46-§. Tabiatda energiyaning saqlanishi. Foydali ish koeffitsiyenti",
+          "page": 166
+        },
+        {
+          "title": "Ilova. Laboratoriya ishlarida o‘lchash xatoliklarini hisoblash",
+          "page": 170
+        },
+        {
+          "title": "Mashqlarning javoblari",
+          "page": 171
+        },
+        {
+          "title": "Qo‘shimcha mashqlarning javoblari",
+          "page": 172
+        }
+      ]
+    }
+  ]
+}

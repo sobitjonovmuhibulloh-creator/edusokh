@@ -1,0 +1,30 @@
+[
+  {
+    "id": "a-cd6dba99-ce71-4237-84de-f19c1533eb21",
+    "grade": 7,
+    "subject": "biologiya",
+    "title": {
+      "uz": "3e",
+      "tg": "3e"
+    },
+    "status": "theory",
+    "labs": [],
+    "source": "admin",
+    "goal": {
+      "uz": "de",
+      "tg": ""
+    },
+    "theory": [
+      {
+        "uz": "dee",
+        "tg": ""
+      }
+    ],
+    "steps": [
+      {
+        "uz": "ewdwd",
+        "tg": ""
+      }
+    ]
+  }
+]

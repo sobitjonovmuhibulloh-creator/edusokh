@@ -1,0 +1,209 @@
+// EduSokh ma'lumotlar modeli (PostgreSQL / Supabase)
+// Ko'p tilli matnlar Json maydonda saqlanadi: { "uz": "...", "tg": "...", "ru": "..." }
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Role {
+  ADMIN
+  TEACHER
+  STUDENT
+  PARENT
+}
+
+enum Lang {
+  uz
+  tg
+  ru
+}
+
+enum TestType {
+  BSB
+  CHSB
+  NAZORAT
+  CUSTOM
+}
+
+enum TestSource {
+  MANUAL
+  AI
+  BANK
+}
+
+enum ExamStatus {
+  ACTIVE
+  CLOSED
+}
+
+enum AttemptStatus {
+  PENDING
+  IN_PROGRESS
+  SUBMITTED
+  EXPIRED
+}
+
+enum LabCategory {
+  PHYSICS
+  CHEMISTRY
+  BIOLOGY
+  GEOMETRY
+  ASTRONOMY
+  GEOGRAPHY
+  OTHER
+}
+
+model User {
+  id          String       @id @default(cuid())
+  role        Role
+  fullName    String
+  login       String       @unique // o'quvchi kodi yoki o'qituvchi logini
+  lang        Lang         @default(uz)
+  classroomId String?
+  classroom   Classroom?   @relation("ClassroomStudents", fields: [classroomId], references: [id])
+  teaching    Classroom[]  @relation("ClassroomTeacher")
+  lessons     Lesson[]
+  testBanks   TestBank[]
+  results     ExamResult[]
+  createdAt   DateTime     @default(now())
+}
+
+model Grade {
+  id        String      @id @default(cuid())
+  number    Int         @unique // 1..11
+  stage     String // PRIMARY (1–4), MIDDLE (5–6), HIGH (7–9), UPPER (10–11)
+  subjects  Subject[]
+  textbooks Textbook[]
+  classes   Classroom[]
+}
+
+model Classroom {
+  id        String        @id @default(cuid())
+  name      String // "9-B"
+  gradeId   String
+  grade     Grade         @relation(fields: [gradeId], references: [id])
+  teacherId String?
+  teacher   User?         @relation("ClassroomTeacher", fields: [teacherId], references: [id])
+  students  User[]        @relation("ClassroomStudents")
+  sessions  ExamSession[]
+}
+
+model Subject {
+  id        String     @id @default(cuid())
+  code      String // "fizika", "kimyo" ...
+  name      Json // { uz, tg, ru }
+  gradeId   String
+  grade     Grade      @relation(fields: [gradeId], references: [id])
+  custom    Boolean    @default(false) // o'qituvchi qo'shgan fan
+  lessons   Lesson[]
+  textbooks Textbook[]
+  testBanks TestBank[]
+
+  @@unique([code, gradeId])
+}
+
+model Lesson {
+  id         String     @id @default(cuid())
+  subjectId  String
+  subject    Subject    @relation(fields: [subjectId], references: [id])
+  title      Json // { uz, tg, ru }
+  objectives Json
+  duration   Int        @default(45)
+  stages     Json // [{ minutes, method, title: {uz,tg,ru}, body: {uz,tg,ru} }]
+  videoUrls  String[]
+  official   Boolean    @default(false)
+  needsReview Boolean   @default(true) // fan o'qituvchisi tasdiqlashi kerak
+  authorId   String?
+  author     User?      @relation(fields: [authorId], references: [id])
+  slideDeck  SlideDeck?
+  labs       LabModel[]
+  createdAt  DateTime   @default(now())
+}
+
+model SlideDeck {
+  id        String   @id @default(cuid())
+  lessonId  String   @unique
+  lesson    Lesson   @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  slides    Json // [{ kind, title: {uz,tg,ru}, bullets: {uz:[],tg:[],ru:[]}, embedUrl?, labKey? }]
+  updatedAt DateTime @updatedAt
+}
+
+model LabModel {
+  id       String      @id @default(cuid())
+  key      String      @unique // LabsCanvas ichidagi kalit: "induction", "cell" ...
+  category LabCategory
+  title    Json
+  lessons  Lesson[]
+}
+
+model Textbook {
+  id         String   @id @default(cuid())
+  title      String
+  gradeId    String
+  grade      Grade    @relation(fields: [gradeId], references: [id])
+  subjectId  String?
+  subject    Subject? @relation(fields: [subjectId], references: [id])
+  lang       Lang
+  sourceUrl  String   @unique // asl manzil (takroriy yuklashning oldini oladi)
+  storageUrl String // public/books/... yoki bulut manzili
+  sha256     String
+  bytes      Int
+  fetchedAt  DateTime @default(now())
+}
+
+model TestBank {
+  id        String        @id @default(cuid())
+  title     String
+  type      TestType
+  source    TestSource
+  lang      Lang
+  subjectId String?
+  subject   Subject?      @relation(fields: [subjectId], references: [id])
+  authorId  String?
+  author    User?         @relation(fields: [authorId], references: [id])
+  // [{ id, text, options: [{ id, text }], correctOptionId, explanation? }]
+  questions Json
+  sessions  ExamSession[]
+  createdAt DateTime      @default(now())
+}
+
+model ExamSession {
+  id               String       @id @default(cuid())
+  pin              String       @unique // "SOX-9B-2026-K7Q"
+  testBankId       String
+  testBank         TestBank     @relation(fields: [testBankId], references: [id])
+  classroomId      String
+  classroom        Classroom    @relation(fields: [classroomId], references: [id])
+  durationMin      Int          @default(45)
+  shuffleQuestions Boolean      @default(true)
+  shuffleOptions   Boolean      @default(true)
+  status           ExamStatus   @default(ACTIVE)
+  opensAt          DateTime     @default(now())
+  closesAt         DateTime
+  results          ExamResult[]
+}
+
+model ExamResult {
+  id            String        @id @default(cuid())
+  sessionId     String
+  session       ExamSession   @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  studentId     String
+  student       User          @relation(fields: [studentId], references: [id])
+  seed          String // variantni qayta tiklash uchun urug'
+  questionOrder String[]
+  optionOrders  Json // { [questionId]: optionId[] }
+  answers       Json          @default("{}") // { [questionId]: optionId }
+  status        AttemptStatus @default(PENDING)
+  startedAt     DateTime?
+  submittedAt   DateTime?
+  score         Int?
+  maxScore      Int?
+  tabSwitches   Int           @default(0)
+
+  @@unique([sessionId, studentId])
+}

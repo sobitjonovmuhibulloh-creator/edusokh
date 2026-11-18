@@ -1,0 +1,246 @@
+{
+  "id": "algebra_7_uzb",
+  "year": 2017,
+  "publisher": null,
+  "pageOffset": 0,
+  "pagesPerPdfPage": 1,
+  "imprint": "ISBN 978-9943-22-054-6",
+  "source": "PDF 189–190-betlar (mundarija) matn qatlamidan, 1–2-betlar (titul); toc-parse bilan ajratildi; bob tuzilishi, bet tartibi va shriftdan o‘girilgan harflar qo‘lda tekshirildi 2026-10-29",
+  "chapters": [
+    {
+      "title": "",
+      "topics": [
+        {
+          "title": "5—6- sinflarda o‘rganilgan mavzularni takrorlash",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "title": "I bob. ALGEBRAIK IFODALAR",
+      "topics": [
+        {
+          "title": "1-§. Sonli ifodalar",
+          "page": 6
+        },
+        {
+          "title": "2-§. Algebraik ifodalar",
+          "page": 10
+        },
+        {
+          "title": "3-§. Algebraik tengliklar, formulalar",
+          "page": 14
+        },
+        {
+          "title": "4-§. Arifmetik amallarning xossalari",
+          "page": 20
+        },
+        {
+          "title": "5-§. Qavslarni ochish qoidalari",
+          "page": 24
+        },
+        {
+          "title": "I bobga doir mashqlar",
+          "page": 30
+        },
+        {
+          "title": "I bobga doir sinov mashqlari — testlar",
+          "page": 32
+        },
+        {
+          "title": "Tarixiy ma’lumotlar",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "title": "II bob. BIR NOMA’LUMLI BIRINCHI DARAJALI TENGLAMALAR",
+      "topics": [
+        {
+          "title": "6- §. Tenglama va uning yechimlari",
+          "page": 35
+        },
+        {
+          "title": "7- §. Bir noma’lumli birinchi darajali tenglamalarni yechish",
+          "page": 38
+        },
+        {
+          "title": "8- §. Masalalarni tenglamalar yordamida yechish",
+          "page": 44
+        },
+        {
+          "title": "II bobga doir mashqlar",
+          "page": 49
+        },
+        {
+          "title": "II bobga doir sinov mashqlari — testlar",
+          "page": 50
+        },
+        {
+          "title": "Tarixiy ma’lumotlar",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "title": "III bob. BIRHADLAR VA KO‘PHADLAR",
+      "topics": [
+        {
+          "title": "9- §. Natural ko‘rsatkichli daraja",
+          "page": 53
+        },
+        {
+          "title": "10- §. Natural ko‘rsatkichli darajaning xossalari",
+          "page": 59
+        },
+        {
+          "title": "11- §. Birhad va uning standart shakli",
+          "page": 68
+        },
+        {
+          "title": "12- §. Birhadlarni ko‘paytirish",
+          "page": 72
+        },
+        {
+          "title": "13- §. Ko‘phadlar",
+          "page": 75
+        },
+        {
+          "title": "14- §. O‘xshash hadlarni ixchamlash",
+          "page": 77
+        },
+        {
+          "title": "15- §. Ko‘phadlarni qo‘shish va ayirish",
+          "page": 81
+        },
+        {
+          "title": "16- §. Ko‘phadni birhadga ko‘paytirish",
+          "page": 84
+        },
+        {
+          "title": "17- §. Ko‘phadni ko‘phadga ko‘paytirish",
+          "page": 86
+        },
+        {
+          "title": "18- §. Birhad va ko‘phadni birhadga bo‘lish",
+          "page": 90
+        },
+        {
+          "title": "III bobga doir mashqlar",
+          "page": 95
+        },
+        {
+          "title": "III bobga doir sinov mashqlari — testlar",
+          "page": 97
+        },
+        {
+          "title": "Tarixiy ma’lumotlar",
+          "page": 100
+        }
+      ]
+    },
+    {
+      "title": "IV bob. KO‘PHADNI KO‘PAYTUVCHILARGA AJRATISH",
+      "topics": [
+        {
+          "title": "19- §. Umumiy ko‘paytuvchini qavsdan tashqariga chiqarish",
+          "page": 102
+        },
+        {
+          "title": "20- §. Guruhlash usuli",
+          "page": 107
+        },
+        {
+          "title": "21- §. Yig‘indining kvadrati. Ayirmaning kvadrati",
+          "page": 110
+        },
+        {
+          "title": "22- §. Kvadratlar ayirmasi formulasi",
+          "page": 115
+        },
+        {
+          "title": "23- §. Ko‘phadni ko‘paytuvchilarga ajratishning bir necha usullarini qo‘llash",
+          "page": 119
+        },
+        {
+          "title": "IV bobga doir mashqlar",
+          "page": 125
+        },
+        {
+          "title": "IV bobga doir sinov mashqlari — testlar",
+          "page": 127
+        },
+        {
+          "title": "Tarixiy ma’lumotlar",
+          "page": 128
+        }
+      ]
+    },
+    {
+      "title": "V bob. ALGEBRAIK KASRLAR",
+      "topics": [
+        {
+          "title": "24- §. Algebraik kasr. Kasrlarni qisqartirish",
+          "page": 129
+        },
+        {
+          "title": "25- §. Kasrlarni umumiy maxrajga keltirish",
+          "page": 135
+        },
+        {
+          "title": "26- §. Algebraik kasrlarni qo‘shish va ayirish",
+          "page": 139
+        },
+        {
+          "title": "27- §. Algebraik kasrlarni ko‘paytirish va bo‘lish",
+          "page": 144
+        },
+        {
+          "title": "28- §. Algebraik kasrlar ustida birgalikda bajariladigan amallar",
+          "page": 147
+        },
+        {
+          "title": "V bobga doir mashqlar",
+          "page": 150
+        },
+        {
+          "title": "V bobga doir sinov mashqlari — testlar",
+          "page": 152
+        },
+        {
+          "title": "Tarixiy ma’lumotlar",
+          "page": 153
+        }
+      ]
+    },
+    {
+      "title": "VI bob. KOMBINATORIKA ELEMENTLARI",
+      "topics": [
+        {
+          "title": "29- §. Kombinatorikaning asosiy qoidasi",
+          "page": 154
+        },
+        {
+          "title": "30- §. O‘rin almashtirish. Guruhlash",
+          "page": 161
+        },
+        {
+          "title": "VI bobga doir mashqlar",
+          "page": 167
+        },
+        {
+          "title": "VI bobga doir sinov mashqlari — testlar",
+          "page": 169
+        },
+        {
+          "title": "7- sinf algebra kursini takrorlash uchun mashqlar",
+          "page": 171
+        },
+        {
+          "title": "Mashqlarga javoblar",
+          "page": 180
+        }
+      ]
+    }
+  ]
+}

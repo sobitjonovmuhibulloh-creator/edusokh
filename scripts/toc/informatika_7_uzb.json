@@ -1,0 +1,106 @@
+{
+  "id": "informatika_7_uzb",
+  "year": 2017,
+  "publisher": null,
+  "pageOffset": 0,
+  "pagesPerPdfPage": 1,
+  "imprint": "ISBN 978-9943-07-495-8",
+  "source": "PDF 86-betlar (mundarija) matn qatlamidan, 1–2-betlar (titul); toc-parse bilan ajratildi; bob tuzilishi, bet tartibi va shriftdan o‘girilgan harflar qo‘lda tekshirildi 2026-10-29",
+  "chapters": [
+    {
+      "title": "",
+      "topics": [
+        {
+          "title": "So‘zboshi",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "title": "I BOB. AXBOROT",
+      "topics": [
+        {
+          "title": "1-dars. Axborot tushunchasi va bilish haqida",
+          "page": 4
+        },
+        {
+          "title": "2-dars. Axborotlar ustida bajariladigan amallar",
+          "page": 9
+        },
+        {
+          "title": "3-dars. Axborotlarni kodlash usullari",
+          "page": 17
+        },
+        {
+          "title": "4-dars. Sanoq sistemalari haqida",
+          "page": 21
+        },
+        {
+          "title": "5-dars. Ikkilik sanoq sistemasida amallar bajarish",
+          "page": 29
+        },
+        {
+          "title": "6-dars. Amaliy mashg‘ulot",
+          "page": 32
+        },
+        {
+          "title": "7-dars. Bir sanoq sistemasidagi sonlarni boshqa sanoq sistemasida tasvirlash",
+          "page": 32
+        },
+        {
+          "title": "8-dars. Amaliy mashg‘ulot",
+          "page": 35
+        },
+        {
+          "title": "9-dars. Axborotlarning kompyuterda tasvirlanishi",
+          "page": 36
+        },
+        {
+          "title": "10-dars. Amaliy mashg‘ulot",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "title": "II BOB. INTERNETDA ISHLASH ASOSLARI",
+      "topics": [
+        {
+          "title": "11-dars. Axborot texnologiyalari",
+          "page": 45
+        },
+        {
+          "title": "12-dars. Axborotli olam muammolari va Internet",
+          "page": 51
+        },
+        {
+          "title": "13-dars. Internetda ishlashni ta’minlovchi dasturlar",
+          "page": 57
+        },
+        {
+          "title": "14-dars. Internetda ma’lumotlarni izlash",
+          "page": 62
+        },
+        {
+          "title": "15-dars. Elektron pochta",
+          "page": 67
+        },
+        {
+          "title": "16-dars. Axborotlarni himoyalash va antiviruslar haqida",
+          "page": 73
+        },
+        {
+          "title": "17-dars. Takrorlashga doir topshiriqlar",
+          "page": 79
+        },
+        {
+          "title": "Asosiy atamalar izohi",
+          "page": 83
+        },
+        {
+          "title": "Adabiyotlar",
+          "page": 85
+        }
+      ]
+    }
+  ]
+}

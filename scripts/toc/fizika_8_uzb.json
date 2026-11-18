@@ -1,0 +1,274 @@
+{
+  "id": "fizika_8_uzb",
+  "year": null,
+  "publisher": null,
+  "pageOffset": 0,
+  "source": "PDF 172–176-betlar (mundarija), qo'lda o'qilgan 2026-10-28",
+  "chapters": [
+    {
+      "title": "I bob. Elektr zaryad. Elektr maydon",
+      "topics": [
+        {
+          "title": "§1. Jismlarning zaryadlanishi",
+          "page": 4
+        },
+        {
+          "title": "§2. Elektr zaryad",
+          "page": 9
+        },
+        {
+          "title": "§3. Zaryadlarning o'zaro ta'siri. Kulon qonuni",
+          "page": 12
+        },
+        {
+          "title": "§4. Masalalar yechish",
+          "page": 15
+        },
+        {
+          "title": "§5. Elektr maydon",
+          "page": 18
+        },
+        {
+          "title": "§6. O'tkazgichlarda elektr zaryadlarning taqsimlanishi",
+          "page": 22
+        },
+        {
+          "title": "§7. Masalalar yechish",
+          "page": 25
+        },
+        {
+          "title": "§8. Tabiatdagi elektr hodisalari",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "title": "II bob. Elektr toki",
+      "topics": [
+        {
+          "title": "§9. Elektr toki haqida tushuncha",
+          "page": 32
+        },
+        {
+          "title": "§10. Tok manbalari",
+          "page": 34
+        },
+        {
+          "title": "§11. Elektr kuchlanish va uni o'lchash",
+          "page": 39
+        },
+        {
+          "title": "§12. Tok kuchi va uni o'lchash",
+          "page": 42
+        },
+        {
+          "title": "§13. Masalalar yechish",
+          "page": 45
+        },
+        {
+          "title": "§14. Laboratoriya ishi. Elektr zanjirni yig'ish, uning turli qismlaridagi tok kuchi va kuchlanishni o'lchash",
+          "page": 46
+        },
+        {
+          "title": "§15. Elektr qarshilik",
+          "page": 47
+        },
+        {
+          "title": "§16. Rezistorlar. Reostatlar. Potensiometrlar",
+          "page": 52
+        },
+        {
+          "title": "§17. Zanjirning bir qismi uchun Om qonuni",
+          "page": 56
+        },
+        {
+          "title": "§18. Masalalar yechish",
+          "page": 60
+        },
+        {
+          "title": "§19. Laboratoriya ishi. Om qonunini o'rganish",
+          "page": 61
+        },
+        {
+          "title": "§20. Amaliy mashg'ulot. Reostat yordamida tok kuchini rostlash",
+          "page": 63
+        },
+        {
+          "title": "§21. Iste'molchilarni ketma-ket ulash",
+          "page": 64
+        },
+        {
+          "title": "§22. Iste'molchilarni parallel ulash",
+          "page": 67
+        },
+        {
+          "title": "§23. Amaliy mashg'ulot. Tok manbalarini ulash",
+          "page": 71
+        },
+        {
+          "title": "§24. Laboratoriya ishi. O'tkazgichlarni ketma-ket va parallel ulashni o'rganish",
+          "page": 72
+        },
+        {
+          "title": "§25. Iste'molchilarni aralash ulash (Mustaqil o'qish uchun)",
+          "page": 75
+        },
+        {
+          "title": "§26. Masalalar yechish",
+          "page": 76
+        },
+        {
+          "title": "§27. Elektr sig'imi. Kondensatorlar",
+          "page": 78
+        },
+        {
+          "title": "§28. Kondensatorlarni parallel va ketma-ket ulash",
+          "page": 82
+        },
+        {
+          "title": "§29. Masalalar yechish",
+          "page": 84
+        }
+      ]
+    },
+    {
+      "title": "III bob. Elektr tokining ishi va quvvati",
+      "topics": [
+        {
+          "title": "§30. Elektr tokining ishi",
+          "page": 88
+        },
+        {
+          "title": "§31. Elektr tokining quvvati",
+          "page": 90
+        },
+        {
+          "title": "§32. Masalalar yechish",
+          "page": 94
+        },
+        {
+          "title": "§33. Laboratoriya ishi. Iste'molchi (lampochka)ning elektr quvvatini aniqlash",
+          "page": 96
+        },
+        {
+          "title": "§34. Elektr toki ta'sirida o'tkazgichlarning qizishi",
+          "page": 97
+        },
+        {
+          "title": "§35. Masalalar yechish",
+          "page": 100
+        },
+        {
+          "title": "§36. Joul–Lens qonunining amaliy tatbiqlari",
+          "page": 102
+        },
+        {
+          "title": "§37. Xonadonlardagi elektr zanjirlar va ulashlar",
+          "page": 104
+        },
+        {
+          "title": "§38. Elektr xavfsizlik choralari",
+          "page": 108
+        },
+        {
+          "title": "§39. Masalalar yechish",
+          "page": 111
+        }
+      ]
+    },
+    {
+      "title": "IV bob. Turli muhitlarda elektr toki",
+      "topics": [
+        {
+          "title": "§40. Metallarda elektr toki",
+          "page": 115
+        },
+        {
+          "title": "§41. Suyuqliklarda elektr toki",
+          "page": 117
+        },
+        {
+          "title": "§42. Elektroliz. Faradeyning birinchi qonuni",
+          "page": 120
+        },
+        {
+          "title": "§43. Faradeyning ikkinchi qonuni",
+          "page": 123
+        },
+        {
+          "title": "§44. Masalalar yechish",
+          "page": 125
+        },
+        {
+          "title": "§45. Elektrolizdan turmushda va texnikada foydalanish",
+          "page": 127
+        },
+        {
+          "title": "§46. Vakuumda elektr toki",
+          "page": 129
+        },
+        {
+          "title": "§47. Gazlarda elektr toki",
+          "page": 131
+        },
+        {
+          "title": "§48. Elektr razryadlarning turlari va ulardan foydalanish",
+          "page": 133
+        }
+      ]
+    },
+    {
+      "title": "V bob. Magnit maydon",
+      "topics": [
+        {
+          "title": "§49. Magnit maydon. Doimiy magnit va uning qutblari",
+          "page": 139
+        },
+        {
+          "title": "§50. Magnit maydonni xarakterlovchi parametrlar",
+          "page": 143
+        },
+        {
+          "title": "§51. Yerning magnit maydoni",
+          "page": 145
+        },
+        {
+          "title": "§52. Tokning magnit maydoni",
+          "page": 146
+        },
+        {
+          "title": "§53. Magnit maydonning tokli o'tkazgichga ta'siri",
+          "page": 149
+        },
+        {
+          "title": "§54. Masalalar yechish",
+          "page": 151
+        },
+        {
+          "title": "§55. Bir jinsli magnit maydonda tokli ramkaning aylanma harakati",
+          "page": 153
+        },
+        {
+          "title": "§56. Magnit maydonda zaryadli zarraning harakati",
+          "page": 155
+        },
+        {
+          "title": "§57. Elektromagnitlar. Elektromagnit rele",
+          "page": 157
+        },
+        {
+          "title": "§58. Laboratoriya ishi. Eng oddiy elektromagnitni yig'ish va uning ishlashini o'rganish",
+          "page": 161
+        },
+        {
+          "title": "§59. O'zgarmas tok elektr dvigateli",
+          "page": 162
+        },
+        {
+          "title": "§60. Masalalar yechish",
+          "page": 165
+        }
+      ]
+    }
+  ]
+}

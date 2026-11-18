@@ -1,0 +1,128 @@
+{
+  "id": "milliy_istiqlol_goyasi_7_uzb",
+  "year": 2015,
+  "publisher": null,
+  "pageOffset": 0,
+  "pagesPerPdfPage": 1,
+  "imprint": "ISBN 978-9943-04-144-8",
+  "source": "PDF 118-betlar (mundarija) matn qatlamidan, 1–2-betlar (titul); toc-parse bilan ajratildi; bob tuzilishi, bet tartibi va shriftdan o‘girilgan harflar qo‘lda tekshirildi 2026-10-29",
+  "chapters": [
+    {
+      "title": "",
+      "topics": [
+        {
+          "title": "Kirish",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "title": "I bob. Mustaqillik va milliy g‘oya",
+      "topics": [
+        {
+          "title": "Milliy g‘oya – ezgu orzu-intilishlar ifodasi",
+          "page": 7
+        },
+        {
+          "title": "Ma’naviyat va uning ta’rifi",
+          "page": 11
+        },
+        {
+          "title": "Fikr va g‘oya",
+          "page": 15
+        },
+        {
+          "title": "G‘oyaning asosiy xususiyatlari va turlari",
+          "page": 20
+        },
+        {
+          "title": "Jamiyat rivoji va bunyodkor g‘oyalar",
+          "page": 26
+        },
+        {
+          "title": "Bilim va ma’naviyat ( Amaliy mashg‘ulot )",
+          "page": 32
+        },
+        {
+          "title": "Takrorlash",
+          "page": 35
+        }
+      ]
+    },
+    {
+      "title": "II bob. G‘oyaga qarshi go‘oya, fikrga qarshi fikr",
+      "topics": [
+        {
+          "title": "Zararli g‘oyalar",
+          "page": 36
+        },
+        {
+          "title": "Hushyorlik va ogohlik",
+          "page": 42
+        },
+        {
+          "title": "Milliy o‘zlik va an’analar",
+          "page": 48
+        },
+        {
+          "title": "Tarixiy yodgorliklar ( Amaliy mashg‘ulot )",
+          "page": 55
+        },
+        {
+          "title": "Nazorat ishi",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "title": "III bob. Ma’naviyatga tahdid – o‘zligimizga tahdid",
+      "topics": [
+        {
+          "title": "Ko‘zga ko‘rinmas xatarlar",
+          "page": 58
+        },
+        {
+          "title": "Shaxs tarbiyasi",
+          "page": 66
+        },
+        {
+          "title": "Jamiyatga xavf soladigan illatlar",
+          "page": 74
+        },
+        {
+          "title": "Inson qalbiga yo‘l",
+          "page": 80
+        },
+        {
+          "title": "Tarixiy xotirani tiklashda san’atning ahamiyati",
+          "page": 89
+        },
+        {
+          "title": "Nazorat ishi",
+          "page": 95
+        }
+      ]
+    },
+    {
+      "title": "IV bob. Yuksak ma’naviy mezonlar",
+      "topics": [
+        {
+          "title": "Insonparvarlik – xalqimizning ezgu fazilati",
+          "page": 96
+        },
+        {
+          "title": "Ma’naviyatning shakllanishida oilaning o‘rni",
+          "page": 104
+        },
+        {
+          "title": "Axloq-odob – ma’naviyat negizi",
+          "page": 109
+        },
+        {
+          "title": "Nazorat ishi",
+          "page": 117
+        }
+      ]
+    }
+  ]
+}
